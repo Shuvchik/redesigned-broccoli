@@ -1,0 +1,15 @@
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/bin/Debug/net6.0/Ex001_HelloConsole
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/bin/Debug/net6.0/Ex001_HelloConsole.deps.json
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/bin/Debug/net6.0/Ex001_HelloConsole.runtimeconfig.json
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/bin/Debug/net6.0/Ex001_HelloConsole.dll
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/bin/Debug/net6.0/Ex001_HelloConsole.pdb
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.csproj.AssemblyReference.cache
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.AssemblyInfoInputs.cache
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.AssemblyInfo.cs
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.dll
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/refint/Ex001_HelloConsole.dll
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.pdb
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/Ex001_HelloConsole.genruntimeconfig.cache
+/Users/shuv/Desktop/c_sharp_ex/Ex001_HelloConsole/obj/Debug/net6.0/ref/Ex001_HelloConsole.dll
